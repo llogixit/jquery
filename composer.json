@@ -1,0 +1,9 @@
+{
+    "require": {
+        "grpc/grpc": "^1.38",
+        "google/apiclient": "^2.12.1",
+        "google/cloud-core": "^1.47",
+        "google/cloud-firestore": "^1.46.0"
+        
+    }
+}
